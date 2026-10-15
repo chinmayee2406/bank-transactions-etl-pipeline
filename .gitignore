@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Data artifacts & local databases
+# (Uncomment if you want to track sample data, or keep ignored to generate via script)
+*.db
+logs/*.log
+.DS_Store
+
+# IDE & Editor folders
+.vscode/
+.idea/
+*.swp
+
+# Spark / Hadoop temporary files
+metastore_db/
+derby.log
+.spark-staging/

@@ -1,0 +1,14 @@
+{
+    "total_rows": 200000,
+    "clean_rows": 189957,
+    "rejected_rows": 10043,
+    "pass_rate_pct": 94.98,
+    "rule_violations": {
+        "NOT_NULL_VIOLATION": 2050,
+        "DUPLICATE_TRANSACTION_ID": 2084,
+        "NEGATIVE_OR_ZERO_AMOUNT": 1952,
+        "INVALID_OR_OUT_OF_RANGE_DATE": 1980,
+        "UNRECOGNIZED_TXN_TYPE": 1018,
+        "MALFORMED_CURRENCY_CODE": 959
+    }
+}
