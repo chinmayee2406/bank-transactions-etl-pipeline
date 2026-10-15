@@ -2,8 +2,6 @@
 
 A production-grade retail banking ETL pipeline built with **PySpark**, **SQL**, and **automated Data Quality validation**. Demonstrates strict schema enforcement, dead-letter quarantining, partitioned Parquet lakehouse storage, and financial SQL analytics.
 
-Targeted for **Bank of America** Data Engineering campus roles.
-
 ---
 
 ## Architecture Flow
